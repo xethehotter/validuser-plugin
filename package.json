@@ -1,0 +1,8 @@
+{
+  "name": "aliduser-plugin",
+  "version": "1.0.0",
+  "description": "Plugin per Revenge che risolve il problema Unknown User",
+  "main": "plugins/validuser/index.js",
+  "author": "xe",
+  "license": "MIT"
+}
