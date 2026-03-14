@@ -1,7 +1,0 @@
-{
-  "name": "ValidUserFix",
-  "description": "Fix unknown user mentions",
-  "version": "1.0.0",
-  "author": "xethehotter",
-  "main": "index.js"
-}
