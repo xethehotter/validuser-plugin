@@ -1,0 +1,7 @@
+{
+  "name": "ValidUserFix",
+  "description": "Fix unknown user mentions in Revenge",
+  "version": "1.0.0",
+  "author": "xe",
+  "main": "index.js"
+}
